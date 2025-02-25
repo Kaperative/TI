@@ -1,2 +1,3 @@
 # TI
-TI labs Khmylko Ilya
+TI lab_1 Khmylko Ilya
+Нужно скачать все файлы в одну папку и запустить .exe файл.
